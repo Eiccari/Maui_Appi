@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Testailua")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+880235114b788176148a2615f6a49ae21a1d6b98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Testailua")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Testailua")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33055,11 +33055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eiccari\\source\\repos\\Testailua\\Testailua\\Testailua.csproj",
+      "projectUniqueName": "C:\\Users\\Eiccari\\OneDrive - SASKY koulutuskuntayhtymä\\Maui_Appi\\Testailua\\Testailua\\Testailua.csproj",
       "projectName": "Testailua",
-      "projectPath": "C:\\Users\\Eiccari\\source\\repos\\Testailua\\Testailua\\Testailua.csproj",
+      "projectPath": "C:\\Users\\Eiccari\\OneDrive - SASKY koulutuskuntayhtymä\\Maui_Appi\\Testailua\\Testailua\\Testailua.csproj",
       "packagesPath": "C:\\Users\\Eiccari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eiccari\\source\\repos\\Testailua\\Testailua\\obj\\",
+      "outputPath": "C:\\Users\\Eiccari\\OneDrive - SASKY koulutuskuntayhtymä\\Maui_Appi\\Testailua\\Testailua\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
